@@ -1,0 +1,15 @@
+{
+  "name": "ibcos-redis-orm",
+  "version": "0.0.0",
+  "description": "Redis ORM for NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://dev@isis/npm-repos/ibcos-redis-orm.git"
+  },
+  "author": "Lee Driscoll",
+  "license": "BSD-2-Clause"
+}
