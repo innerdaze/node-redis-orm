@@ -1,3 +1,7 @@
-var redis_api = require('./lib/redis-api');
+var api = require('./lib/redis-api');
+var model = require('./lib/redis-model');
 
-module.exports = redis_api;
+module.exports = {
+	API: api,
+	Model: model
+};
