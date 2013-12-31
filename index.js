@@ -1,9 +1,9 @@
 var api = require('./lib/redis-api');
-var model = require('./lib/redis-model');
+var resource = require('./lib/redis-resource');
 
 module.exports = ORM = function(config){
 	return {
 		API: new api(config),
-		Model: model
+		Resource: resource
 	};
 };
