@@ -14,8 +14,8 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "node-uuid": "~1.4.1",
-    "crypto": "0.0.3",
     "redis": "~0.10.0",
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "redis-model": "0.0.6"
   }
 }
