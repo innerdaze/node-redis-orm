@@ -5,7 +5,7 @@ var ResourceModel = require('./lib/redis-resource-model');
 
 module.exports = ORM = function(config){
 	return {
-		API: new StringSpi(config),
+		StringSPI: new StringSpi(config),
 		ResourceModel: ResourceModel
 	};
 };
