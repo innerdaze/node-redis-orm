@@ -16,6 +16,7 @@
     "node-uuid": "~1.4.1",
     "redis": "~0.10.0",
     "async": "~0.2.9",
-    "redis-model": "0.0.6"
+    "redis-model": "0.0.6",
+    "oolib": "git+ssh://dev@isis/npm-repos/oolib.git"
   }
 }
