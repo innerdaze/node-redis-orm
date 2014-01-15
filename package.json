@@ -17,6 +17,9 @@
     "redis": "~0.10.0",
     "async": "~0.2.9",
     "redis-model": "0.0.6",
-    "oolib": "git+ssh://dev@isis/npm-repos/oolib.git"
+    "oolib": "git+ssh://dev@isis/npm-repos/oolib.git",
+    "co": "~3.0.2",
+    "thunkify": "0.0.1",
+    "co-redis": "~1.1.0"
   }
 }
