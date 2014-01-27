@@ -1,9 +1,8 @@
-//var HashApi = require('./lib/redis-hash-spi');
-var StringSPI = require('./lib/redis-string-spi'),
+var SPI = require('./lib/redis-management-spi'),
 		ResourceModel = require('./lib/redis-resource-model'),
 		ORM;
 
 module.exports = ORM = {
-	StringSPI: StringSPI,
+	SPI: SPI,
 	ResourceModel: ResourceModel
 };
