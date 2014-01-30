@@ -1,4 +1,4 @@
-var SPI = require('./lib/redis-management-spi'),
+var SPI = require('./lib/redis-spi'),
 		ResourceModel = require('./lib/redis-resource-model'),
 		ORM;
 
