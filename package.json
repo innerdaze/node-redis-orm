@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://dev@isis/npm-repos/ibcos-redis-orm.git"
+    "url": "git+ssh://dev@212.71.234.118/npm-repos/ibcos-redis-orm.git"
   },
   "author": "Lee Driscoll",
   "license": "BSD-2-Clause",
@@ -17,7 +17,7 @@
     "redis": "~0.10.0",
     "async": "~0.2.9",
     "redis-model": "0.0.6",
-    "oolib": "git+ssh://dev@isis/npm-repos/oolib.git",
+    "oolib": "git+ssh://dev@212.71.234.118/npm-repos/oolib.git",
     "co": "~3.0.2",
     "thunkify": "0.0.1",
     "co-redis": "~1.1.0",
