@@ -1,14 +1,14 @@
 {
-  "name": "ibcos-redis-orm",
+  "name": "redis-relational-orm",
   "version": "0.0.0",
-  "description": "Redis ORM for NodeJs",
+  "description": "Relational Redis ORM for NodeJs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://dev@isis/npm-repos/ibcos-redis-orm.git"
+    "url": "git@github.com:lsdriscoll/node-redis-orm.git"
   },
   "author": "Lee Driscoll",
   "license": "BSD-2-Clause",
@@ -16,7 +16,6 @@
     "node-uuid": "~1.4.1",
     "redis": "~0.10.0",
     "async": "~0.2.9",
-    "redis-model": "0.0.6",
-    "oolib": "git+ssh://dev@isis/npm-repos/oolib.git"
+    "redis-model": "0.0.6"
   }
 }
